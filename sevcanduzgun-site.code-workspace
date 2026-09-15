@@ -7,5 +7,7 @@
 			"path": "../CSC_Report"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sevcanduzgun-site"
+	}
 }
